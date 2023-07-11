@@ -3,6 +3,8 @@
 - author:   RiseGhost 👻
 - language: Java ☕
 
+<img src="https://user-images.githubusercontent.com/91985039/252744384-9f05acb7-57d7-484e-b88a-8d1511ef222e.png" width=75>
+
 Este projeto pretende implementar um servidor multithread em Java, capaz de lidar com vários clientes connectados em simultâneo e capaz de fazer broadcast da mensagens/ficheiros de um cliente para os restantes clientes.
 
 Este projeto conta com uma versão com interface gráfica disponivél no seguinte link:
